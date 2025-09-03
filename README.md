@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @andreypidd
-- 👀 I’m interested in javascript and C#
-- 🌱 I’m currently learning C++ and C#
+- 👀 I’m interested in JavaScript, C# and Java
+- 🌱 I’m currently learning C++, C# and Java
