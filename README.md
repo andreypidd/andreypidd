@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @andreypidd
 - 👀 I’m interested in javascript and C#
-- 🌱 I’m currently learning JS and C#
-
-and its file will be uptated
+- 🌱 I’m currently learning C++ and C#
